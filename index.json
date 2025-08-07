@@ -1,0 +1,23 @@
+[
+  {
+    "name": "LatAnime",
+    "pkg": "com.jd.latanime",
+    "apk": "https://github.com/bikerjd1/extanime/raw/main/aniyomi-es.latanime-v14.35-debug.apk",
+    "versionCode": 1435,
+    "versionName": "14.35"
+  },
+  {
+    "name": "SoloLatino",
+    "pkg": "com.jd.sololatino",
+    "apk": "https://github.com/bikerjd1/extanime/raw/main/aniyomi-es.sololatino-v14.23-debug.apk",
+    "versionCode": 1423,
+    "versionName": "14.23"
+  },
+  {
+    "name": "VerSeriesOnline",
+    "pkg": "com.jd.verseriesonline",
+    "apk": "https://github.com/bikerjd1/extanime/raw/main/aniyomi-es.verseriesonline-v14.20-debug.apk",
+    "versionCode": 1420,
+    "versionName": "14.20"
+  }
+]
